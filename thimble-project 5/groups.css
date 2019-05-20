@@ -1,0 +1,177 @@
+body {
+  background-color: gainsboro;
+}
+
+
+.zero {
+
+  width: 100%;
+  height: 50px;
+  background-color: #020202;
+
+
+}
+
+.zero nav h1 {
+  padding-top: 7px;
+  font-family: "Comic Sans MS";
+  color: floralwhite; 
+  
+}
+div {
+  margin: auto;
+}
+.container {
+  padding: 2px 2px;
+}
+.test1 {
+  border: 1px solid gray; 
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-bottom: 52px;
+  font-family: 'Special Elite', cursive;
+
+}
+.test1 p {
+  text-align: center;
+}
+.test1 h1 {
+  padding-top: 2px; 
+}
+.test1 h6 {
+  padding-bottom: 2px; 
+
+}
+.test1 .button1 {
+  background-color: #98db6e;
+  color: white; 
+  font-size: 15px;
+}
+.test1 .button2 {
+  background-color: #f0c756;
+  color: white; 
+  font-size: 15px;
+}
+.test1 .button3 {
+  background-color: #f5824f;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button4 {
+  background-color: #18bedd;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button5 {
+  background-color: #bac111;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button5x {
+  background-color: #6a5f63;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button6 {
+  background-color: #0ea536;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button7 {
+  background-color: #9929d4;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button8 {
+  background-color: #d03973;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button9 {
+  background-color: #1d1db2;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button10 {
+  background-color: #277c83;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button11 {
+  background-color: #2f5230;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button12 {
+  background-color: #7777a0;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button13 {
+  background-color: #5c5cc9;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button14 {
+  background-color: #d4cfa2;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button15 {
+  background-color: #36759d;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button16 {
+  background-color: #b99265;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button17 {
+  background-color: #6f332e;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button18 {
+  background-color: #a55d94;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button19 {
+  background-color: #52bea5;
+  color: white; 
+  font-size: 15px; 
+}
+
+.test1 .button21 {
+  background-color: #292f34;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button22 {
+  background-color: #9b9b9f;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button23 {
+  background-color: #ea61c5;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button24 {
+  background-color: #de3267;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button25 {
+  background-color: #763d90;
+  color: white; 
+  font-size: 15px; 
+}
+.test1 .button26 {
+  background-color: #100180;
+  color: white; 
+  font-size: 15px; 
+}
+
+

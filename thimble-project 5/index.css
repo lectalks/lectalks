@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(247, 247, 247);
+}
+
+h1 {
+    font-family: 'Patrick Hand SC', cursive;
+}
+
+.button {
+  background-color: #118015;
+  color: mintcream;
+  padding: 5px;
+  font-size: 17px;
+  margin: 4px 2px 15px;
+  height: 20%; 
+}

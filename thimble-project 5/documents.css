@@ -1,0 +1,16 @@
+body {
+    background-color: #eceef2;
+}
+
+h1 {
+    font-family: 'Snippet', sans-serif;
+}
+
+.button{
+  background-color: cornflowerblue;
+  color: mintcream;
+  padding: 5px;
+  font-size: 17px;
+  margin: 4px 2px 15px;
+  height: 20%; 
+}
